@@ -13,11 +13,11 @@ Tab Common CSS
     background: #fafafa;
 }
 
-.nav-tabs>li.active>a, 
-.nav-tabs>li.active>a:focus, 
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
 .nav-tabs>li.active>a:hover,
-.nav-tabs.nav-justified>.active>a, 
-.nav-tabs.nav-justified>.active>a:focus, 
+.nav-tabs.nav-justified>.active>a,
+.nav-tabs.nav-justified>.active>a:focus,
 .nav-tabs.nav-justified>.active>a:hover{
     cursor: default;
     background-color: #fff;
@@ -167,7 +167,7 @@ Border Tabs
 }
 
 /*Border Background Tab*/
-.border-tab.primary-nav .nav-tabs>li>a, 
+.border-tab.primary-nav .nav-tabs>li>a,
 .border-tab.primary-nav .nav-tabs.nav-justified>li>a {
     border: 1px solid transparent;
     background: #03a9f4;
@@ -181,7 +181,7 @@ Border Tabs
 
 
 /*Border Transparent Tab*/
-.border-tab.transparent-nav .nav-tabs>li>a, 
+.border-tab.transparent-nav .nav-tabs>li>a,
 .border-tab.transparent-nav .nav-tabs.nav-justified>li>a {
     background: #fff;
     color: #999;
@@ -191,11 +191,11 @@ Border Tabs
     border-bottom: 3px solid #03a9f4;
 }
 
-.border-tab.transparent-nav .nav-tabs>li.active>a, 
-.border-tab.transparent-nav .nav-tabs>li.active>a:focus, 
-.border-tab.transparent-nav .nav-tabs>li.active>a:hover, 
-.border-tab.transparent-nav .nav-tabs.nav-justified>.active>a, 
-.border-tab.transparent-nav .nav-tabs.nav-justified>.active>a:focus, 
+.border-tab.transparent-nav .nav-tabs>li.active>a,
+.border-tab.transparent-nav .nav-tabs>li.active>a:focus,
+.border-tab.transparent-nav .nav-tabs>li.active>a:hover,
+.border-tab.transparent-nav .nav-tabs.nav-justified>.active>a,
+.border-tab.transparent-nav .nav-tabs.nav-justified>.active>a:focus,
 .border-tab.transparent-nav .nav-tabs.nav-justified>.active>a:hover {
     color: #03a9f4;
 }
@@ -214,11 +214,11 @@ Border Box Tab
     margin-top: -1px;
 }
 
-.border-box-tab .nav-tabs>li.active>a, 
-.border-box-tab .nav-tabs>li.active>a:focus, 
-.border-box-tab .nav-tabs>li.active>a:hover, 
-.border-box-tab .nav-tabs.nav-justified>.active>a, 
-.border-box-tab .nav-tabs.nav-justified>.active>a:focus, 
+.border-box-tab .nav-tabs>li.active>a,
+.border-box-tab .nav-tabs>li.active>a:focus,
+.border-box-tab .nav-tabs>li.active>a:hover,
+.border-box-tab .nav-tabs.nav-justified>.active>a,
+.border-box-tab .nav-tabs.nav-justified>.active>a:focus,
 .border-box-tab .nav-tabs.nav-justified>.active>a:hover {
     color: #03a9f4;
 }
@@ -274,8 +274,8 @@ Icon, Round And Square Tabs
 .square-tab .nav-pills>li.active>a:focus,
 .square-tab .nav-pills>li.active>a:hover,
 
-.icon-tab .nav-pills>li.active>a, 
-.icon-tab .nav-pills>li.active>a:focus, 
+.icon-tab .nav-pills>li.active>a,
+.icon-tab .nav-pills>li.active>a:focus,
 .icon-tab .nav-pills>li.active>a:hover {
     color: #fff;
     border:1px solid transparent;
@@ -283,8 +283,8 @@ Icon, Round And Square Tabs
 }
 
 
-.icon-tab .nav-pills>li.active>a, 
-.icon-tab .nav-pills>li.active>a:focus, 
+.icon-tab .nav-pills>li.active>a,
+.icon-tab .nav-pills>li.active>a:focus,
 .icon-tab .nav-pills>li.active>a:hover {
     box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -346,15 +346,15 @@ Vertical Tab
     color: #fff;
     margin-right: 0;
     border: 0;
-    background: #03a9f4;
+    background: #607D8B;
     text-align: center;
     font-weight: 700;
 }
 
-.vertical-tab .nav-tabs>li.active>a, 
-.vertical-tab .nav-tabs>li.active>a:focus, 
+.vertical-tab .nav-tabs>li.active>a,
+.vertical-tab .nav-tabs>li.active>a:focus,
 .vertical-tab .nav-tabs>li.active>a:hover {
-    background-color: #ed145b;
+    background-color: #673fb4;
     color: #fff;
     border: 0;
     z-index: 10;

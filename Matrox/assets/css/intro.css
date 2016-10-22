@@ -39,8 +39,8 @@ Intro CSS for Demo landing page. If you do not use it, you can remove this css
   .intro-page .tt-nav .logo-brand {
       margin: 0;
   }
-  
-  .intro-page .tt-nav .logo-brand, 
+
+  .intro-page .tt-nav .logo-brand,
   .intro-page .tt-nav .menuzord-menu>li>a {
       line-height: 20px;
   }
