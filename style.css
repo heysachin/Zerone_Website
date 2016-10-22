@@ -100,7 +100,7 @@ a,
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
-    transition: all 0.3s ease; 
+    transition: all 0.3s ease;
 }
 
 
@@ -132,8 +132,8 @@ h6 {
     font-size: 12px;
 }
 
-p img { 
-    margin: 0; 
+p img {
+    margin: 0;
 }
 
 p {
@@ -174,7 +174,7 @@ hr {
     background-color: #03a9f4;
 }
 
-.btn.active, 
+.btn.active,
 .btn:active {
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
 }
@@ -190,8 +190,8 @@ hr {
     font-size: 20px;
 }
 
-.btn.focus, 
-.btn:focus, 
+.btn.focus,
+.btn:focus,
 .btn:hover {
     color: #fff;
 }
@@ -232,7 +232,7 @@ address {
 }
 address hr {
     margin-top: 20px;
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
 }
 
 
@@ -299,7 +299,7 @@ thead {
 
 
 
-/* Customize Material Form style 
+/* Customize Material Form style
 /* ------------------------------------ */
 .form-control {
     border-radius: 0;
@@ -531,7 +531,7 @@ thead {
     .mt-sm-50 {
         margin-top: 50px;
     }
-    
+
     /*margin-bottom*/
     .mb-sm-30 {
         margin-bottom: 30px;
@@ -702,7 +702,7 @@ thead {
 .green-color {
     color: #71c44c !important;
 }
- 
+
 .pink {
     background-color: #ed145b !important;
 }
@@ -1051,7 +1051,7 @@ thead {
 @media screen and (max-width: 991px) {
    .mocup-wrapper-sm img{
         width: 100%;
-   } 
+   }
 }
 
 
@@ -1063,67 +1063,67 @@ thead {
 }
 
 .banner-1 {
-    background-image: url("assets/img/banner/banner-1.jpg");  
+    background-image: url("assets/img/banner/banner-1.jpg");
 }
 .banner-2 {
-    background-image: url("assets/img/banner/banner-2.jpg");  
+    background-image: url("assets/img/banner/banner-2.jpg");
 }
 .banner-3 {
-    background-image: url("assets/img/banner/banner-3.jpg");  
+    background-image: url("assets/img/banner/banner-3.jpg");
 }
 .banner-4 {
-    background-image: url("assets/img/banner/banner-4.jpg");  
+    background-image: url("assets/img/banner/banner-4.jpg");
 }
 .banner-5 {
     background-image: url("assets/img/banner/banner-5.jpg");
 }
 .banner-6 {
-    background-image: url("assets/img/banner/banner-6.jpg");  
+    background-image: url("assets/img/banner/banner-6.jpg");
 }
 .banner-7 {
-    background-image: url("assets/img/banner/banner-7.jpg");  
+    background-image: url("assets/img/banner/banner-7.jpg");
 }
 .banner-8 {
     background-image: url("assets/img/banner/banner-8.jpg");
 }
 .banner-9 {
-    background-image: url("assets/img/banner/banner-9.jpg");  
+    background-image: url("assets/img/banner/banner-9.jpg");
 }
 .banner-10 {
-    background-image: url("assets/img/banner/banner-10.jpg");  
+    background-image: url("assets/img/banner/banner-10.jpg");
 }
 .banner-11 {
-    background-image: url("assets/img/banner/banner-11.jpg");  
+    background-image: url("assets/img/banner/banner-11.jpg");
 }
 .banner-12 {
-    background-image: url("assets/img/banner/banner-12.jpg");  
+    background-image: url("assets/img/banner/banner-12.jpg");
 }
 .banner-13 {
-    background-image: url("assets/img/banner/banner-13.jpg");  
+    background-image: url("assets/img/banner/banner-13.jpg");
 }
 .banner-14 {
-    background-image: url("assets/img/banner/banner-14.jpg"); 
+    background-image: url("assets/img/banner/banner-14.jpg");
 }
 .banner-14.overlay::before  {
     background-color: rgba(246, 72, 63, 0.9);
 }
 .banner-15 {
-    background-image: url("assets/img/banner/banner-15.jpg");  
+    background-image: url("assets/img/banner/banner-15.jpg");
 }
 .banner-16 {
-    background-image: url("assets/img/banner/banner-16.jpg");  
+    background-image: url("assets/img/banner/banner-16.jpg");
 }
 .banner-17 {
-    background-image: url("assets/img/banner/banner-17.jpg");  
+    background-image: url("assets/img/banner/banner-17.jpg");
 }
 .banner-18 {
-    background-image: url("assets/img/banner/banner-18.jpg");  
+    background-image: url("assets/img/banner/banner-18.jpg");
 }
 .banner-19 {
-    background-image: url("assets/img/banner/banner-19.jpg");  
+    background-image: url("assets/img/banner/banner-19.jpg");
 }
 .banner-20 {
-    background-image: url("assets/img/banner/banner-20.jpg");  
+    background-image: url("assets/img/banner/banner-20.jpg");
 }
 
 @media screen and (max-width: 767px) {
@@ -1198,7 +1198,7 @@ thead {
 
 
 /*Magnific Popup Close Button*/
-.mfp-image-holder .mfp-close, 
+.mfp-image-holder .mfp-close,
 .mfp-iframe-holder .mfp-close {
     right: -10px;
     padding-right: 0;
@@ -1218,7 +1218,7 @@ button.mfp-arrow {
     z-index: 1056;
 }
 
-.mfp-image-holder .mfp-close:hover, 
+.mfp-image-holder .mfp-close:hover,
 .mfp-iframe-holder .mfp-close:hover{
     cursor: pointer;
 }
@@ -1291,7 +1291,7 @@ button.mfp-arrow {
 @media screen and (max-width: 991px) {
     .author-wrapper.profile {
         margin-top: 30px;
-    }  
+    }
 }
 
 @media screen and (max-width: 479px) {
@@ -1428,7 +1428,7 @@ Gutter Style
 @media (max-width: 991px) {
     .clients-grid.gutter .border-box {
         margin-bottom: 30px;
-    } 
+    }
 }
 
 
@@ -1476,7 +1476,7 @@ Gallery Thumb
 .gallery-thumb  .flex-direction-nav a.flex-next::before {
     font-family: 'Material Icons';
     font-size: 20px;
-    color: #fff;  
+    color: #fff;
 }
 .gallery-thumb  .flex-direction-nav a.flex-prev::before {
     content: 'arrow_back';
@@ -1577,7 +1577,7 @@ nav ul,
 nav ul li {
     float: none;
 }
-nav ul li:hover, 
+nav ul li:hover,
 nav ul li.active {
     background-color: transparent;
 }
@@ -1594,12 +1594,12 @@ nav ul a {
 
 @media only screen and (max-width: 749px) {
     .container {
-        width: 100%; 
+        width: 100%;
     }
 }
 @media only screen and (max-width: 601px) {
     .container {
-         width: 90%; 
+         width: 90%;
     }
 }
 
@@ -1698,7 +1698,7 @@ nav ul a {
 
 
 /*---------------------------------------------------------
-KEY FRAME 
+KEY FRAME
 -----------------------------------------------------------*/
 
 /* Left to Right key frame*/
@@ -2031,7 +2031,7 @@ KEY FRAME
     margin: 0px auto;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
-    transition: all 0.3s ease; 
+    transition: all 0.3s ease;
 }
 
 @media (min-width: 769px) {
@@ -2156,7 +2156,7 @@ KEY FRAME
     pointer-events: none;
     -moz-opacity: 0;
     -webkit-opacity: 0;
-    opacity: 0;    
+    opacity: 0;
     visibility: hidden;
     -webkit-transform: translate(40px, 0);
     -moz-transform: translate(40px, 0);
@@ -2222,7 +2222,7 @@ KEY FRAME
 
 
 /* ================= Preloader ==================== */
-
+<!--
 #preloader {
     position: fixed;
     top: 0;
@@ -2253,7 +2253,3 @@ KEY FRAME
 #preloader .progress .indeterminate{
     background:#03a9f4;
 }
-
-
-
-

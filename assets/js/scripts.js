@@ -120,8 +120,8 @@ Version: 1.4
             }, 1500, 'easeInOutExpo');
             event.preventDefault();
         });
-        
-        
+
+
         /* === for onepage menu scroll === */
         if( typeof smoothScroll == 'object'){
             smoothScroll.init();
@@ -151,7 +151,7 @@ Version: 1.4
 
         /* === Detect IE version === */
         (function () {
-            
+
             function getIEVersion() {
                 var match = navigator.userAgent.match(/(?:MSIE |Trident\/.*; rv:)(\d+)/);
                 return match ? parseInt(match[1], 10) : false;
@@ -188,7 +188,7 @@ Version: 1.4
 
         /**
          * ### HOW TO CREATE A VALID INSTAGRAM ID TO USE: ###
-         * You need your user name and your access token for use Instagram API. Login to Instagram https://www.instagram.com 
+         * You need your user name and your access token for use Instagram API. Login to Instagram https://www.instagram.com
          * You can get your user ID from here: https://smashballoon.com/instagram-feed/find-instagram-user-id/
          * Get your access token from http://jelled.com/instagram/access-token and folow the instruction
          * You can also generate access token from here: http://instagram.pixelunion.net/.
@@ -484,7 +484,7 @@ Version: 1.4
         //     $('.parallax-bg').imagesLoaded( function() {
 
         //         if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-                 
+
         //         } else {
 
         //             $(window).stellar({
@@ -553,7 +553,7 @@ Version: 1.4
                     var ttPortfolio = $(this).find('.portfolio-slider');
 
                     var ttDirection = ttPortfolio.attr('data-direction');
-                    
+
                     ttPortfolio.flexslider({
                         animation: "slide",
                         direction: ttDirection,
@@ -569,13 +569,13 @@ Version: 1.4
 
                 });
 
-            }    
+            }
 
         });
 
 
         /* ======= Portfolio Individual Gallery ======= */
-        $('.portfolio-slider').each(function () { 
+        $('.portfolio-slider').each(function () {
             var _items = $(this).find("li > a");
             var items = [];
             for (var i = 0; i < _items.length; i++) {
@@ -597,4 +597,3 @@ Version: 1.4
 
 
 })(jQuery);
-
