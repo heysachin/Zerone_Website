@@ -445,7 +445,7 @@ Flex Slider Customisation for Portfolio
     border: 1px solid #fff;
     box-shadow: none;
 }
- 
+
 .portfolio-item .flex-control-nav li a.flex-active {
     background-color: #fff;
 }
@@ -494,9 +494,9 @@ Magnific Popup Customisation for Portfolio
 .mfp-arrow {
     height: 60px;
 }
-.mfp-arrow::before, 
-.mfp-arrow::after, 
-.mfp-arrow .mfp-b, 
+.mfp-arrow::before,
+.mfp-arrow::after,
+.mfp-arrow .mfp-b,
 .mfp-arrow .mfp-a {
     margin-top: 15px;
     top: -1px !important;
@@ -534,7 +534,7 @@ img.mfp-img {
 
 
 /*
-Responsive Media 
+Responsive Media
 -------------------------------------------------------------*/
 @media screen and (max-width: 992px) {
 
